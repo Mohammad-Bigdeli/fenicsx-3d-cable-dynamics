@@ -1,6 +1,6 @@
 # 3D Mass–Spring–Damper Cable Dynamics
 
-A three-dimensional discrete mass–spring–damper cable model with tension-only behavior, prescribed circular endpoint excitation, explicit time integration, and ParaView visualization.
+A three-dimensional discrete mass–spring–damper cable model implemented in Python, with tension-only behavior, prescribed circular endpoint excitation, explicit time integration, and ParaView visualization. The model is intended for comparison with geometrically nonlinear cable formulations developed using FEniCSx.
 
 ## Main features
 
