@@ -18,7 +18,7 @@ Geometrically nonlinear 3D cable dynamics in FEniCSx with tension-only behavior,
 
 The current cable position is
 
-$$
+```math
 \mathbf{r}(X,t)
 =
 \begin{bmatrix}
@@ -28,7 +28,7 @@ X \\
 \end{bmatrix}
 +
 \mathbf{u}(X,t)
-$$
+```
 
 
 where \(X\) is the reference coordinate and \(\mathbf u\) is the three-dimensional displacement.
