@@ -55,14 +55,14 @@ An axial viscous contribution is included when the cable is stretched. The gover
 
 | Parameter | Value |
 |---|---:|
-| Cable length | \(1.0\ \mathrm{m}\) |
+| Cable length | $1.0\ \mathrm{m}$ |
 | Number of nodes | 31 |
-| Young’s modulus | \(4.456\times10^8\ \mathrm{Pa}\) |
-| Cable diameter | \(1.0\times10^{-3}\ \mathrm{m}\) |
-| Density | \(970\ \mathrm{kg/m^3}\) |
-| Excitation amplitude | \(0.03L\) |
-| Excitation frequency | \(1\ \mathrm{Hz}\) |
-| Ramp duration | \(1.0\ \mathrm{s}\) |
+| Young’s modulus | $4.456\times10^8\ \mathrm{Pa}$ |
+| Cable diameter | $1.0\times10^{-3}\ \mathrm{m}$ |
+| Density | $970\ \mathrm{kg/m^3}$ |
+| Excitation amplitude | $0.03L$ |
+| Excitation frequency | $1\ \mathrm{Hz}$ |
+| Ramp duration | $1.0\ \mathrm{s}$ |
 
 ## Run in Google Colab
 
