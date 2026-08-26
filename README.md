@@ -35,13 +35,11 @@ where \(X\) is the reference coordinate and \(\mathbf u\) is the three-dimension
 
 The stretch ratio is
 
-$$
-\lambda
-=
+```math
+\lambda =
 \left\|
 \frac{\partial \mathbf{r}}{\partial X}
-\right\|.
-$$
+\right\|
 
 The elastic tension-only constitutive law is
 
