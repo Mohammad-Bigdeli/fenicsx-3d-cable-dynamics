@@ -27,7 +27,7 @@ X \\
 0
 \end{bmatrix}
 +
-\mathbf{u}(X,t),
+\mathbf{u}(X,t)
 $$
 
 
